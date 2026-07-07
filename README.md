@@ -53,3 +53,10 @@ O objetivo foi planejar, executar e documentar testes manuais para garantir a qu
 ## 📚 Sobre este projeto
 
 Este projeto faz parte do Bootcamp de QA Engineering da TripleTen e demonstra a aplicação prática de técnicas de testes manuais, elaboração de cenários de teste e documentação de defeitos utilizando boas práticas da área de Quality Assurance.
+
+## 💡 Principais aprendizados
+
+- Compreensão da importância do planejamento de testes.
+- Aplicação de técnicas de Design de Testes.
+- Evolução na documentação de bugs utilizando Jira.
+- Desenvolvimento do pensamento analítico para validação de requisitos.
